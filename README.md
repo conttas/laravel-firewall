@@ -2,7 +2,6 @@
 
 [![Version](https://img.shields.io/packagist/v/conttas/laravel-firewall?label=release)](https://github.com/conttas/laravel-firewall/releases)
 ![Downloads](https://img.shields.io/packagist/dt/conttas/laravel-firewall)
-![Tests](https://img.shields.io/github/workflow/status/conttas/laravel-firewall/Tests?label=tests)
 [![License](https://img.shields.io/github/license/conttas/laravel-firewall)](LICENSE.md)
 
 This package intends to protect your Laravel app from different type of attacks such as XSS, SQLi, RFI, LFI, User Agent, and a lot more. It will also block repeated attacks and send notification via email and/or slack when attack is detected. Furthermore, it will log failed logins and block the IP after a number of attempts.
