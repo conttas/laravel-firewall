@@ -18,7 +18,7 @@ Note: Some middleware classes (i.e. Xss) are empty as the `Middleware` abstract 
 Run the following command:
 
 ```bash
-composer require akaunting/firewall
+composer require conttas/laravel-firewall
 ```
 
 ### 2. Register (for Laravel < 5.5)
